@@ -1,6 +1,6 @@
-# R-codes for the Ph.D. thesis ''Statistical structure and inference methods for discrete high-frequency observations of SPDEs in one and multiple space dimensions''
+# R-codes for the Ph.D. thesis _Statistical structure and inference methods for discrete high-frequency observations of SPDEs in one and multiple space dimensions_
 
-We provide the R-codes used to generate the plots within the Ph.D. thesis ''Statistical structure and inference methods for discrete high-frequency observations of SPDEs in one and multiple space dimensions''. The R-code for simulating the one-dimensional SPDE model as described by 
+We provide the R-codes used to generate the plots within the Ph.D. thesis _Statistical structure and inference methods for discrete high-frequency observations of SPDEs in one and multiple space dimensions_. The R-code for simulating the one-dimensional SPDE model as described by 
 
 $$
 \text{d} X_t(y) =  \Big(\vartheta_2\frac{\partial^2}{\partial y^2}X_t(y)+\vartheta_1\frac{\partial}{\partial y}X_t(y)+\vartheta_0X_t(y)\Big)\text{d} t+\sigma\text{d} B_t(y), (t,y)\in\[0,1\]\times \[0,1\]
